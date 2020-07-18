@@ -1,6 +1,6 @@
 ### Hi hej hello 👋
 
-I’m Kris. I’m an interactive designer / developer. Like my ancestors, I make interactive things on the internet.
+I’m Kris. Like my ancestors, I make interactive things on the internet.
 
 I currently work at Google. Before that I worked at other places. And before that I was a baby.
 
