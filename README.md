@@ -8,4 +8,4 @@ This is a website: [k-create.com](https://k-create.com).
 
 Sometimes I put things on [Codepen](https://codepen.io/kristofferh/).
 
-Currently thinking about: 🥪
+Currently thinking about: 🍔
