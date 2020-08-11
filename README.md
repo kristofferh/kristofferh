@@ -1,4 +1,4 @@
-### Hi hej hello 👋
+### Hoi hej hello 👋
 
 I’m Kris. Like my ancestors, I make interactive things on the internet.
 
