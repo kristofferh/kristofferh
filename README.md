@@ -2,7 +2,7 @@
 
 I’m Kris. Like my ancestors, I make interactive things on the internet.
 
-I currently work at Google. Before that I worked at other places. Before that I was a baby.
+I currently work at On. Before that I worked at Google. Before that I worked at other places. Before that I was a baby.
 
 First: 🇸🇪 \
 Then: 🇺🇸 \
